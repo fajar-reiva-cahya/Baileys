@@ -7,18 +7,6 @@ Versi modifikasi dari library Baileys untuk WhatsApp Web API dengan fitur tambah
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Downloads](https://img.shields.io/npm/dm/baileys-modified.svg)](https://www.npmjs.com/package/baileys-modified)
 
-## 📋 Daftar Isi
-
-- [Fitur](#fitur)
-- [Instalasi](##instalasi)
-- [Penggunaan Dasar](#penggunaan-dasar)
-- [Konfigurasi](#konfigurasi)
-- [API Reference](#api-reference)
-- [Contoh Penggunaan](#contoh-penggunaan)
-- [FAQ](#faq)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-
 ## 🚀 Fitur
 
 ### Fitur Utama
