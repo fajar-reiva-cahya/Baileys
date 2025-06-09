@@ -45,18 +45,18 @@ Versi modifikasi dari library Baileys untuk WhatsApp Web API dengan fitur tambah
 
 ### Install via NPM
 ```bash
-npm install baileys-modified
+npm install Baileys
 ```
 
 ### Install via Yarn
 ```bash
-yarn add baileys-modified
+yarn add Baileys
 ```
 
 ### Install dari Source
 ```bash
-git clone https://github.com/username/baileys-modified.git
-cd baileys-modified
+git clone https://github.com/fajar-reiva-cahya/Baileys.git
+cd Baileys
 npm install
 npm run build
 ```
@@ -65,7 +65,7 @@ npm run build
 
 ### Inisialisasi Bot
 ```javascript
-const { default: makeWASocket, DisconnectReason, useMultiFileAuthState } = require('baileys-modified')
+const { default: makeWASocket, DisconnectReason, useMultiFileAuthState } = require('Baileys')
 const { Boom } = require('@hapi/boom')
 
 async function startBot() {
@@ -208,7 +208,7 @@ Membuat grup baru.
 
 ### Bot Sederhana
 ```javascript
-const { default: makeWASocket, useMultiFileAuthState } = require('baileys-modified')
+const { default: makeWASocket, useMultiFileAuthState } = require('Baileys')
 
 async function createBot() {
     const { state, saveCreds } = await useMultiFileAuthState('session')
@@ -323,9 +323,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jika mengalami masalah atau memiliki pertanyaan:
 
-- Buat [Issue](https://github.com/username/baileys-modified/issues) di GitHub
-- Join [Telegram Group](https://t.me/baileys_modified)
-- Email: support@baileys-modified.com
+- Buat [Issue](https://github.com/fajar-reiva-cahya/Baileys/issues) di GitHub
+- Contact [Telegram](https://t.me/siraybukandeveloper)
 
 ---
 
