@@ -10,7 +10,7 @@ Versi modifikasi dari library Baileys untuk WhatsApp Web API dengan fitur tambah
 ## 📋 Daftar Isi
 
 - [Fitur](#fitur)
-- [Instalasi](#instalasi)
+- [Instalasi](##instalasi)
 - [Penggunaan Dasar](#penggunaan-dasar)
 - [Konfigurasi](#konfigurasi)
 - [API Reference](#api-reference)
