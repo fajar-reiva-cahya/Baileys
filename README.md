@@ -31,6 +31,11 @@ Versi modifikasi dari library Baileys untuk WhatsApp Web API dengan fitur tambah
 - Node.js v16 atau lebih baru
 - NPM atau Yarn
 
+### Install via Package.json
+```bash
+"baileys": "github:fajar-reiva-cahya/Baileys"
+```
+
 ### Install via NPM
 ```bash
 npm install Baileys
